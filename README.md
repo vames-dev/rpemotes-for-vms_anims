@@ -12,7 +12,7 @@ The above animations are not configured by me, only converted animation loading 
 6. Upload the entire stream folder to your vms_anims.
 7. Start the server and enjoy the new animations.
 
-## **Konwerter animacji:**
+## **Animations converter:**
 Below is an animation converter for RPEmotes, if you want to use it, you can do so by copying the code below and pasting it on [Online Lua Compiler](https://www.tutorialspoint.com/execute_lua_online.php) and then pasting the list of your animations into ***`AnimationsList`***, then press **Execute**, the last step will be to copy the printed animations list from the right console.
 ```lua
 Config = {Languages={['']={}},MenuLanguage=''}
