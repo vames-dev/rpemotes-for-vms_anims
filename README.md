@@ -13,7 +13,7 @@ The above animations are not configured by me, only converted animation loading 
 7. Start the server and enjoy the new animations.
 
 ## **Konwerter animacji:**
-Below is an animation converter for RPEmotes, if you want to use it, you can do so by copying the code below and pasting it on [Online Lua Compiler](https://www.tutorialspoint.com/execute_lua_online.php) and then pasting the list of your animations into ***``AnimationsList`***, then press **Execute**.
+Below is an animation converter for RPEmotes, if you want to use it, you can do so by copying the code below and pasting it on [Online Lua Compiler](https://www.tutorialspoint.com/execute_lua_online.php) and then pasting the list of your animations into ***`AnimationsList`***, then press **Execute**, the last step will be to copy the printed animations list from the right console.
 ```lua
 Config = {Languages={['']={}},MenuLanguage=''}
 function dump(o)
